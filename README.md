@@ -1,2 +1,2 @@
-# guess
-cigan
+#guesing game
+guess the number
