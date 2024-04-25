@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/quess the number/cmake-build-debug/CMakeFiles/quess_the_number.dir
+C:/Users/lukas/CLionProjects/quess the number/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/quess the number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
